@@ -1,9 +1,6 @@
-# Meta Ads
-
-Projects
-
-- Lead Campaign
-- Traffic Campaign
-- Awareness Campaign
-- Audience Targeting
-- Lookalike Audience
+Meta-Ads/
+│
+├── Lead-Campaign-Demo.pdf
+├── Traffic-Campaign-Demo.pdf
+├── Awareness-Campaign-Demo.pdf
+└── README.md
