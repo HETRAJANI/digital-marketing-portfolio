@@ -12,7 +12,7 @@ This repository showcases the projects I completed during my Digital Marketing I
 
 - 🎓 Bachelor of Technology (Computer Engineering)
 - 📍 Junagadh, Gujarat
-- 💼 Digital Marketing Intern
+- 💼 Digital Marketer
 - 📈 Passionate about SEO, Google Ads, Meta Ads & Email Marketing
 - 🚀 Quick Learner and Problem Solver
 
