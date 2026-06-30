@@ -113,16 +113,14 @@ This repository showcases the projects I completed during my Digital Marketing I
 - Google Analytics
 - Google Search Console
 - Google Keyword Planner
-- Canva
 - ChatGPT
-- Microsoft Excel
+
 
 ---
 
 # 📜 Certifications
 
 - Digital Marketing Internship Certificate
-- Other Professional Certificates
 
 📁 Folder: Certificates
 
@@ -140,9 +138,9 @@ My latest resume is available in the Resume folder.
 
 **Name:** Het Rajani
 
-📧 Email: your-email@gmail.com
+📧 Email: rajanihet04@gmail.com
 
-📱 Mobile: +91 XXXXXXXXXX
+📱 Mobile: +91 6352071070
 
 📍 Gujarat, India
 
