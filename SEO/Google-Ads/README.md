@@ -6,4 +6,7 @@ Projects
 - Performance Max
 - Display Campaign
 - Demand Gen
-- Keyword Planning
+- Shopping Campaign
+- Video Campaign
+- App Campaign
+- Keyword Planner
