@@ -1,12 +1,6 @@
-# Google Ads
-
-Projects
-
-- Search Campaign
-- Performance Max
-- Display Campaign
-- Demand Gen
-- Shopping Campaign
-- Video Campaign
-- App Campaign
-- Keyword Planner
+Google-Ads/
+│
+├── Search-Campaign-Demo.pdf
+├── Performance-Max-Demo.pdf
+├── Demand-Gen-Demo.pdf
+└── README.md
